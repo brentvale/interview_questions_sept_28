@@ -1,0 +1,33 @@
+Lacky
+1. write a function to tell if the BT is a BST (mentioned I've already had it)
+2. parentheses.  remove unbalanced parentheses
+	"(((" => ""
+	"(a))" => "(a)"
+
+Haixiao Yang 
+1. Create a tree from the input text: 
+	"<root>aaaa
+		<node1>alssd</node1>
+		<node2>bbbaf</node2>
+	</root>"
+	
+Rosie Li 
+1. background questions
+2. given an array return the total number of cipher pairs:
+	["abba",
+	"cddc",
+	"gdd",
+	"mll"] => total of 2 pairs
+	
+	
+Marcin Zajac 
+Build Instagram:
+1. user can upload photos
+2. user can follow other users
+3. display a list of photos
+
+
+Cheng Ma
+1. given an array and a target, return true if there is a subsequence that ads up to the target value
+
+2. given an array of people, find the famous person.  A famous person is one that does not follow anyone else.  You have the method follow that when given two people, returns true is a follows b => function follows(a,b)
